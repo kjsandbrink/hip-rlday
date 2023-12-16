@@ -1,5 +1,5 @@
 # hip-rlday
-Notebooks for a workshop introducing policy gradient methods. Initially held in Oxford in March 2023.
+These notebooks were part of a larger workshop introducing policy gradient methods, initially held in Oxford in March 2023 in the Human Information Processing Laboratory. They are intended to take around 2h to complete for an initial run-through.
 
 The "HIP_DeepRLDay_2023.ipynb" notebook contains exercises for participants to complete. They are recommended to create their own copies on Google Colab.
 
